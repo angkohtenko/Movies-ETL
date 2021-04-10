@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-Resources/*
+#Resources/*
 config.py
+Resources/ratings.csv
